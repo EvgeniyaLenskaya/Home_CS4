@@ -16,5 +16,5 @@ if(numberB < 0)
 }
 else
 {
-    Console.WriteLine($"Число {numberA} в степени {numberB} = {Math.Pow(numberA, numberB)}");
+    Console.WriteLine($"Число {numberA} в степени {numberB} = {result}");
 }
